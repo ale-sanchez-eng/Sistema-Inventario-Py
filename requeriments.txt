@@ -1,0 +1,2 @@
+# No se requieren librerías externas.
+# El proyecto utiliza sqlite3, incluido en Python.
